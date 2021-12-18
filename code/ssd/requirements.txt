@@ -1,0 +1,6 @@
+torchvision==0.2.0
+numpy
+pillow
+tensorboardX
+opencv-python
+plyfile
